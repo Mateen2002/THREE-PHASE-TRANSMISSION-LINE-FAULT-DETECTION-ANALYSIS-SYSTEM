@@ -1,6 +1,3 @@
-// TRANSMISSION LINE FAULT DETECTION & ANALYSIS SYSTEM //
-// Hack Tech Engineering by Engr Muhammad Huzaifa Waseem //
-
 #include <SoftwareSerial.h>
 #include <ArduinoJson.h>
 #include <LiquidCrystal.h>
